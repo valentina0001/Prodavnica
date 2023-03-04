@@ -1,1 +1,1 @@
-# Prodavnica
+PHP and SQL
